@@ -28,7 +28,7 @@ In recent years, City Hotel and Resort Hotel have seen hight cancellation rates.
  - How can we make hotel reservation cancellation better?
  - How will hotels be assisted in making pricing and promotional decisions?
 
-## Hypothesis
+## Research Hypothesis
  
  - More cancellations occur when prices are higher.
  - When there is a longer waiting list, customers tend to cancel more frequently.
